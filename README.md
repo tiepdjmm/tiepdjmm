@@ -1,7 +1,7 @@
 ## Olá! 👋
 <div>
-  Esse é o repositório oficial do curso <strong>Técnico em Informática</strong> da <em>Escola Profissionalizando Deputado José Maria Melo</em>. 
-  Estamos Localizado na cidade de Guaraciaba do Norte, no estado do Ceará.
+  Esse é o perfil oficial do curso <strong>Técnico em Informática</strong> da <em>Escola Profissionalizando Deputado José Maria Melo</em>. 
+  Estamos Localizados na cidade de Guaraciaba do Norte, no estado do Ceará.
 </div><br>
 <div>
   O curso técnico em informática da escola profissional do Ceará pertence ao eixo de Tecnologia e Informação, tendo seu foco no desenvolvimento de aplicações e análise de sistemas para a Web.
