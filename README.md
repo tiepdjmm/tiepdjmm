@@ -16,8 +16,8 @@ O curso técnico em informática da Escola Profissionalizante Deputado José Mar
 ## 🌟 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=tiepdjmm&show_icons=true&theme=highcontrast"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiepdjmm&theme=highcontrast&layout=compact"/>
+  <img height="150rem" width="400rem" src="https://github-readme-stats.vercel.app/api?username=tiepdjmm&show_icons=true&theme=highcontrast"/>
+  <img height="150rem" width="600rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiepdjmm&theme=highcontrast&layout=compact"/>
 </div>
 
 ---
