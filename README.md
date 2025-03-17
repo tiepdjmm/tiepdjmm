@@ -1,6 +1,6 @@
 # Olá! 👋
 
-<div align="center">
+<div align="left">
   <strong>Técnico em Informática</strong> - <em>Escola Profissionalizante Deputado José Maria Melo</em>  
   Localizado em Guaraciaba do Norte, Ceará
 </div>
@@ -24,7 +24,7 @@ O curso técnico em informática da Escola Profissionalizante Deputado José Mar
 
 ## 🚀 Tecnologias Utilizadas
 
-<div align="center">
+<div align="left">
     <img title="HTML5" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img title="CSS3" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -32,7 +32,7 @@ O curso técnico em informática da Escola Profissionalizante Deputado José Mar
     <img title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img title="AWS" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img title="AWS" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img title="GCP" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
 
@@ -40,7 +40,7 @@ O curso técnico em informática da Escola Profissionalizante Deputado José Mar
 
 ## 📫 Contato
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/infor_epdjmm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -48,4 +48,4 @@ O curso técnico em informática da Escola Profissionalizante Deputado José Mar
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/tiepdjmm)
+Feito com ❤️ por [Técnico em Informática](https://github.com/tiepdjmm)
